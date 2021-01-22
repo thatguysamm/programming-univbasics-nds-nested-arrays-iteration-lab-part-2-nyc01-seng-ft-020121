@@ -17,4 +17,4 @@ def find_min_in_nested_arrays(src)
   end
 end
 end
-find_min_in_nested_arrays
+find_min_in_nested_arrays(src)
